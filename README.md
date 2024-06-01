@@ -2,7 +2,6 @@
 
 This is a website that i designed and created for:
 - tell who I am;
-- describe my studies;
 - link my main projects;
 - link social media where you can find me;
 
