@@ -1,4 +1,4 @@
-# Dennis Turco - Portfolio
+# Lorenzo Bertinelli - Portfolio
 
 This is a website that i designed and created for:
 - tell who I am;
